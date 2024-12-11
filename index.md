@@ -1,4 +1,4 @@
 ---
-title: Welcome to my blog
+title: Welcome to Jimmy-lbn blog
 ---
-
+Just a test
